@@ -1,0 +1,5 @@
+## Interface: 60100
+## Title : Permaflag
+## Notes: Keeps you flagged for PVP across zones.
+## Author: Matthew Dean
+permaflag.lua
